@@ -103,17 +103,20 @@ body {
   
     background: #69B99D;
     border: 0;
-    padding: 0 50px 30px;
+    
   
     display: flex;
-    justify-content: space-around;
+   
     gap: 50px;
   
     border-radius: 4px;
   
     cursor: pointer;
 
-    
+    align-items:center;
+    justify-content: center;
+    padding: 25px 30px;
+   
   }
   
   button:hover {
